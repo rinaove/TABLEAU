@@ -1,4 +1,4 @@
-🎨 태블로 3주차
+<img width="737" height="424" alt="image" src="https://github.com/user-attachments/assets/d5a3792d-efa7-4e82-90ed-ddcd126a522e" />🎨 태블로 3주차
 이번주 목표
 
  기본적인 시각화 방법 익히기
@@ -37,6 +37,20 @@
 * 하이라이트 테이블 만드는 방법 (표 생성 -> 히트맵)
 <img width="372" height="233" alt="image" src="https://github.com/user-attachments/assets/1eb29cb7-9ecd-4a75-9759-ac0fcdac8883" />
 <img width="564" height="466" alt="image" src="https://github.com/user-attachments/assets/45bf176b-3346-4836-8953-ffe3507f3196" />
+
+## 17, 차원과 측정값
+* 태블로의 모든 작동은 측정값을 차원으로 나누는 것
+ * 측정값은 우리의 관심을 받는 대상 그 자체
+ * 차원은 우리가 관심을 가지는 측정값을 어떻게 썰어서 볼 것인가, 바로 관점의 문제
+<img width="735" height="352" alt="image" src="https://github.com/user-attachments/assets/ba31742c-8da5-4e76-9f27-2141638c2baf" />
+
+## 18. 연속형과 불연속형
+* 초록색: 연속형
+* 파란색: 불연속형
+<img width="519" height="147" alt="image" src="https://github.com/user-attachments/assets/2c8b7fba-42e2-4132-845c-1c5828640661" />
+* 차원과 측정값/연속형과 불연속형
+<img width="737" height="424" alt="image" src="https://github.com/user-attachments/assets/54db748e-6cff-4276-bfaf-729fa5732591" />
+
 
 
 * 복수의 측정값 활용
