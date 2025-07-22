@@ -1,7 +1,6 @@
-<img width="737" height="424" alt="image" src="https://github.com/user-attachments/assets/d5a3792d-efa7-4e82-90ed-ddcd126a522e" />🎨 태블로 3주차
+🎨 태블로 3주차
 이번주 목표
-
- 기본적인 시각화 방법 익히기
+ 히트맵 그려보기
 
 
  ## 13. 박스 플롯 - 실전
@@ -50,7 +49,7 @@
 <img width="519" height="147" alt="image" src="https://github.com/user-attachments/assets/2c8b7fba-42e2-4132-845c-1c5828640661" />
 * 차원과 측정값/연속형과 불연속형
 <img width="737" height="424" alt="image" src="https://github.com/user-attachments/assets/54db748e-6cff-4276-bfaf-729fa5732591" />
-
+<img width="737" height="424" alt="image" src="https://github.com/user-attachments/assets/d5a3792d-efa7-4e82-90ed-ddcd126a522e" />
 
 
 * 복수의 측정값 활용
