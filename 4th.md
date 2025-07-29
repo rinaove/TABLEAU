@@ -2,7 +2,7 @@
 - 이번주 목표
 - [ ] 1시간 강의 다 듣기
 - [ ] 태블로 vs 엑셀
-- [ ] c
+- [ ] Aggregation in 태블로
 - [ ] Data investigation in 태블로
 
 
