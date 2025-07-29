@@ -30,7 +30,7 @@
   * App이 아닌 Review per App으로 조합하기
   * { Fixed [App]: MAX([Reviews]) }
  ## 수강 인증
-<img width="369" height="254" alt="image" src="https://github.com/user-attachments/assets/6fbb3992-3dfe-4a87-923d-51175913da32" />
+<img width="363" height="265" alt="image" src="https://github.com/user-attachments/assets/bd9b739e-a4df-4bff-b4bb-4cf0ea51ebd2" />
 
  ## 느낀점
  귀로는 이해했으나 손으로 입력하기는 어려운 태블로... 실습 한번 해봐야 내가 정신차릴듯
