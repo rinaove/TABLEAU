@@ -31,4 +31,43 @@
 
 ## 22. 분석 패널
 * 패널: 셀과 테이블 중간
+* 상수 라인: 원하는 값을 라인으로 지정 (Order date도 가능)
 
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/2682ecbb-74dd-40f6-a53b-0751f47c894c" />
+
+* 태블로 예측기법: 지수평활법
+ * 불연속형도 가능  
+
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/bd44700b-3ae9-4e6e-b4c7-6a983aeb6bca" />
+<img width="600" height="294" alt="image" src="https://github.com/user-attachments/assets/74b6d422-8aef-4a80-897d-527743ba9cb6" />
+
+* K-means
+
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/05c7c117-8fd9-4b7a-b978-9fa8e87fac79" />
+
+
+## 23. 지도
+* 지도 데이터없음 이슈
+ * 지도 시각화 장점: 공간 데이터가 직관적으로 다가옴
+ * 지도 시각화 단점: 구역을 어떻게 나누냐에 따라 해석이 달라짐
+
+## 24. 계산된 필드 
+* sum[profit] / sum[sales]랑 [profit] / [sales] 의 값이 왜 다를까
+ * sum([Profit]) / sum([Sales])은 매출이 큰 행에 더 많은 가중치를 부여하는 계산입니다. → 즉, 가중 평균
+ * 반면 [Profit] / [Sales]는 각 행의 단순 수익률이므로, 단순 평균을 하면 매출이 작든 크든 똑같이 취급됩니다.
+
+* 자주 쓰는 함수
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/59ba7f02-1fd0-44d6-9b31-344f595c084b" />
+
+## 25. IF 함수
+* 집합 또는 T/f 필드 경우 그 자ㅔ로 IF 뒤 조건부분에 사용 가능 
+
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/204125c2-c8dd-4a54-920c-54ac2fecdc42" />
+
+
+## 수강 인증
+<img width="357" height="416" alt="image" src="https://github.com/user-attachments/assets/8738c79a-0dea-4b57-a39a-c2554a6d5c78" />
+
+## 느낀점
+태블로 기능법은 익힌 것 같음.
+대시보드 만들면서 심화 버전 학습해보고 싶다~
