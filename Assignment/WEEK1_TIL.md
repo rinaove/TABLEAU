@@ -216,6 +216,11 @@ Latitude - 위도
 
 <!-- 텍스트테이블에 관해 배우게 된 점을 적어주세요-->
 ```
+텍스트 테이블은 데이터를 표 형태로 보여주는 가장 기본적인 시각화 방식으로, 차원은 행/열 머리글로, 측정값은 셀 안에 숫자로 표시된다.
+주로 수치 비교, 데이터 점검, 단순 요약에 활용되며 시각적 인사이트보다는 정량적 확인에 적합하다.
+```
+
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/27c6c198-dcff-4688-92fe-6fe3f2341add" />
 
 
 
@@ -224,10 +229,13 @@ Latitude - 위도
 > *🧞‍♀️하이라이트 테이블 등에서 두개 이상의 측정값을 사용하는 경우, 함께 색을 표현하게 되면 단위가 달라 정확한 값을 표현할 수 없습니다. 이때 클릭해야 하는 항목은?*
 
 ```
-여기에 답을 적어주세요!
+마크의 측정값 마우스 우클릭 > 별도의 범례사용 클릭 
 ```
 
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/0b0da7ec-16ac-4b8a-8e43-f87898d10003" />
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/b1a435f5-8d77-4e06-ac25-bc4da44cb04d" />
 
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/4e8d89d3-91b4-4d66-a025-7567742f66b7" />
 
 <br>
 
