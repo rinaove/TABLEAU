@@ -250,8 +250,9 @@ Latitude - 위도
 ```
 
 ```
-여기에 답을 적어주세요!
+필터에 국가/지역 드래그 > South Korea 설정 > 하위 범주를 레이블로 드래그 > 합계(매출)을 색상, 크기, 레이블 드래그 > 합계(매출) 우클릭 후 퀵 테이블 계산 > 구성 비율 클릭
 ```
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/3915b755-3fb6-4f88-9f74-ae57423766ee" />
 
 
 
@@ -272,8 +273,10 @@ Latitude - 위도
 ```
 
 ```
-여기에 답을 적어주세요!
+국가/지역 아시아 3국 필터링 > 월 주문 날짜 (열) 삽입 후 연속형 데이터로 변경 > 합계(매출) 및 합계(수익 (행) 삽입 후 이중축 설정 > 축 동기화 설정 후 축 제목 '배송 날짜의 월' 변경 > 색상 변경
 ```
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/fa9ef9e1-68a4-4249-9bcc-a9cf2f1197f3" />
+
 
 
 
