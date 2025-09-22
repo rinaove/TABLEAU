@@ -1,4 +1,4 @@
-# Tableau 3주차 정규과제
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/eb978433-5fab-4d6d-b0c7-effd547140b9" /># Tableau 3주차 정규과제
 
 📌Tableau 정규과제는 매주 정해진 **유튜브 강의를 통해 태블로 이론 및 기능을 학습한 후, 실습 문제를 풀어보며 이해도를 높이는 학습 방식**입니다. 
 
@@ -82,8 +82,10 @@
 
 <!-- 이중축과 결합축에 관해 배우게 된 점을 적어주세요 -->
 
-
-  
+```
+이중축: 서로 다른 두 개의 축을 양쪽에 놓고 차트를 겹쳐서 표현하는 방식
+결합축: 여러 측정값을 하나의 공유된 축으로 합쳐서 표현하는 방식
+```
 
 ## 23강: 분산형 차트
 
@@ -172,6 +174,10 @@
 메뉴에서 '컨텍스트에 추가' 선택
 ```
 
+> 실습
+
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/2ec54779-687f-4e7d-a586-ca90934036ec" />
+
 
 
 <!-- DArt-B superstore가 아닌 개인 superstore 파일을 사용했다면 값
@@ -198,6 +204,12 @@
 ```
 
 ![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week2-3.png)
+
+
+> 실습
+
+<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/c2209fa9-c160-4fca-b638-876efac47f17" />
+
 
 <br>
 
