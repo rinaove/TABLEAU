@@ -1,4 +1,3 @@
-<img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/eb978433-5fab-4d6d-b0c7-effd547140b9" /># Tableau 3주차 정규과제
 
 📌Tableau 정규과제는 매주 정해진 **유튜브 강의를 통해 태블로 이론 및 기능을 학습한 후, 실습 문제를 풀어보며 이해도를 높이는 학습 방식**입니다. 
 
