@@ -1,4 +1,5 @@
-<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/45508ddd-25fa-4752-9cb9-ac646030fea7" />📌Tableau 정규과제는 매주 정해진 **유튜브 강의를 통해 태블로 이론 및 기능을 학습한 후, 실습 문제를 풀어보며 이해도를 높이는 학습 방식**입니다. 
+
+📌Tableau 정규과제는 매주 정해진 **유튜브 강의를 통해 태블로 이론 및 기능을 학습한 후, 실습 문제를 풀어보며 이해도를 높이는 학습 방식**입니다. 
 
 이번주는 아래의 **Tableau_4th_TIL**에 명시된 유튜브 강의를 먼저 수강해주세요. 학습 중에는 주요 개념을 스스로 정리하고, 이해가 어려운 부분은 강의 자료나 추가 자료를 참고해 보완하세요. 과제 작성이 끝난 이후에는 **Github에 TIL과 실습 인증 결과를 업로드 후, 과제 시트에 제출해주세요.**
 
@@ -92,7 +93,7 @@
 
 <img width="1552" height="923" alt="image" src="https://github.com/user-attachments/assets/ca88da26-1e55-4d5a-a4d8-3485c90da469" />
 
-
+<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/45508ddd-25fa-4752-9cb9-ac646030fea7" />
 
 ## 33. 계산된 필드
 
