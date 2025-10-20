@@ -1,5 +1,3 @@
-<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/2256b731-02bb-45d3-9a29-d6772fa28ca7" /># Tableau 4주차 정규과제
-
 📌Tableau 정규과제는 매주 정해진 **유튜브 강의를 통해 태블로 이론 및 기능을 학습한 후, 실습 문제를 풀어보며 이해도를 높이는 학습 방식**입니다. 
 
 이번주는 아래의 **Tableau_4th_TIL**에 명시된 유튜브 강의를 먼저 수강해주세요. 학습 중에는 주요 개념을 스스로 정리하고, 이해가 어려운 부분은 강의 자료나 추가 자료를 참고해 보완하세요. 과제 작성이 끝난 이후에는 **Github에 TIL과 실습 인증 결과를 업로드 후, 과제 시트에 제출해주세요.**
@@ -61,6 +59,9 @@
 ## 39강. LOD
 
 <!-- INCLUDE, EXCLUDE, FIXED 등 본 강의에서 알게 된 LOD 표현식에 대해 알게 된 점을 적어주세요. -->
+
+<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/2256b731-02bb-45d3-9a29-d6772fa28ca7" /># Tableau 4주차 정규과제
+
 
 1. FIXED에서 설정한 차원이 기호에 포함되어 있을 때
 
@@ -165,17 +166,31 @@ include와 exclude 표현식들은 측정값만 반환. 반환값이 차원 필�
 
 <!-- 마크카드에 대해 알게 된 점을 적어주세요 -->
 
+```
+워크시트에서 차트 만들 시 해당 시트에 있는 데이터를 마크라고 함. 마크 서식을 변경하기 위해 마크카드를 사용해야 함.
+마크 값 변경 시 차트는 유지되면서 마크 값이 변경됨.
+```
+
+<img width="172" height="234" alt="image" src="https://github.com/user-attachments/assets/d9f693ef-1a89-4478-b1ce-7f4588bafd86" />
+
+<img width="930" height="431" alt="image" src="https://github.com/user-attachments/assets/b877ad31-c82d-4096-9643-78c54f647d2c" />
+
+<img width="686" height="428" alt="image" src="https://github.com/user-attachments/assets/14af0209-b44b-450b-a295-a794ed61472e" />
+
+<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/a5706bcc-16bb-424a-a802-9df1aaea3f03" />
 
 
 ## 46. 서식 계층
 
 <!-- 서식계층에 대해 알게 된 점을 적어주세요 -->
 
+<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/6781d5ea-7018-41da-8969-c1aa5f85d8d1" />
+
+
 > **🧞‍♀️ 서식계층을 일반적인 것에서 구체적인 것 순서로 기입해보세요**
 
-
 ```
-여기에 답을 적어주세요!
+워크 시트 서식 > 행/열 서식 > 특정 필드 > 필드 레이블 > 도구설명 / 제목 / 마크
 ```
 
 
@@ -184,6 +199,7 @@ include와 exclude 표현식들은 측정값만 반환. 반환값이 차원 필�
 
 <!-- 워크시트 서식에 대해 알게 된 점을 적어주세요!-->
 
+<img width="1552" height="917" alt="image" src="https://github.com/user-attachments/assets/33437e1c-a06f-4ff6-89c3-756611933cd6" />
 
 
 # 확인문제
