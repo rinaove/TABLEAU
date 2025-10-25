@@ -1,4 +1,4 @@
-<img width="1840" height="1121" alt="image" src="https://github.com/user-attachments/assets/3f159753-f8d6-470d-bfbc-b450a4a81619" /><img width="1840" height="1121" alt="image" src="https://github.com/user-attachments/assets/14b6a676-14d7-4349-9814-78ae749152c5" /># Tableau 5주차 정규과제
+# Tableau 5주차 정규과제
 
 📌Tableau 정규과제는 매주 정해진 **유튜브 강의를 통해 태블로 이론 및 기능을 학습한 후, 실습 문제를 풀어보며 이해도를 높이는 학습 방식**입니다. 
 
@@ -150,13 +150,16 @@
 
 <!-- 대시보드 시트에 이동에 대해 알게 된 점을 적어주세요!-->
 
+<img width="406" height="197" alt="image" src="https://github.com/user-attachments/assets/37fb975d-c8f5-452d-ab28-8b56f617c073" />
 
+<img width="1840" height="1121" alt="image" src="https://github.com/user-attachments/assets/1f1019b0-2d28-437a-84e2-361629a325b9" />
 
 
 ## 57. 매개변수 변경 동작
 
 <!-- 매개변수 변경 동작에 대해 알게 된 점을 적어주세요!-->
 
+<img width="606" height="174" alt="image" src="https://github.com/user-attachments/assets/76a083d6-3749-4bb6-852c-1368f3b6af65" />
 
 
 
