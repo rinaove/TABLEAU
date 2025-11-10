@@ -181,6 +181,9 @@
 
 어떤 부분에 가중을 두었는지, 어떤 사용자 편의성을 고려하였는지에 대한 설명이 필요합니다.
 
+<img width="1840" height="1125" alt="image" src="https://github.com/user-attachments/assets/ba52b3f6-479e-4e39-a96e-10f5eca7f5b5" />
+
+
 https://public.tableau.com/app/profile/kim.yerin/viz/1_17627839429730/sheet5?publish=yes
 
 - 색 농도를 통해 시장 규모와 수익성의 지리적 집중도를 즉각적으로 파악
